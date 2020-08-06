@@ -1,4 +1,4 @@
-# DOSCIS-simple-queue-simulator
+# DOCSIS-simple-queue-simulator
 A simple discrete event simulator based on DOCSIS, for visualizing the dynamics of a queue during some simulation time an the mean waiting time for every package in it.
 It contains a Token Bucket algorithm for shapping the traffic rate in the queue.
 
